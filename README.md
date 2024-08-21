@@ -22,10 +22,10 @@ ServerSync is a project designed to manage Minecraft servers using channels and 
 
 ```xml
 <dependency>
-	    <groupId>com.github.a8kj7sea</groupId>
-	    <artifactId>ServerSync</artifactId>
-	    <version>{version}</version>
-	</dependency>
+	<groupId>com.github.a8kj7sea</groupId>
+	<artifactId>ServerSync</artifactId>
+	<version>{version}</version>
+</dependency>
 ```
 
 
